@@ -1,0 +1,7 @@
+git init => to initialize git
+git add 'file-name'
+git add .
+git add -i
+git commit => commits code to the repositiry
+git checkout -b 'branch name' => creats new branch
+git checkout 'branch-name' =>to swith branch
